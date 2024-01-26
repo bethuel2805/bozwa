@@ -15,7 +15,7 @@ import FooterComponent from "../components/home/FooterComponent.vue"
        <div id="header">
         <HeaderComponent/>
        </div>
-       <div id="section_one">
+       <div id="sectionOne">
         <SectionOneComponent/>
        </div>
        <div id="divider">
