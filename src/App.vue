@@ -1,7 +1,7 @@
-<script setup>
+<!-- <script setup>
 import HomeViews from './views/Home.views.vue';
-</script>
+</script> -->
 
 <template>
-  <HomeViews/>
+  <router-view></router-view>
 </template>

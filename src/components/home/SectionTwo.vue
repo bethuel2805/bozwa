@@ -3,22 +3,22 @@ import CardOne from '../shorts/CardOne.vue';
 
 const listCardOne = [
     {
-        "imageName":"../../assets/global_world.svg",
+        "imageName":"global_world.svg",
         "title":"Réseau Mondial",
         "description":"Profitez d'une plateforme d'emprunt d'argent unique surtout conçue pour apporter dignité et respect partout au monde.",
     },
     {
-        "imageName":"../../assets/fast_time.svg",
+        "imageName":"fast_time.svg",
         "title":"Instantané",
         "description":"Profitez d'emprunter de l'argent de façon simplifiéet ultra rapide 24/24h et 7/7j.",
     },
     {
-        "imageName":"../../assets/valide_done.svg",
+        "imageName":"valide_done.svg",
         "title":"Protection des données",
         "description":"Nous travaillons toujours plus pour vous assurer la sécurité de vos données personnelles et celle de vos transactions d'emprunts.",
     },
     {
-        "imageName":"../../assets/lock.svg",
+        "imageName":"lock.svg",
         "title":"Sécurité",
         "description":"Profitez d'une plateforme ultra sécurisée avec un criptage unique qui assure protection totale de vos données et autres.",
     },

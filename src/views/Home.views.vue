@@ -12,7 +12,7 @@ import FooterComponent from "../components/home/FooterComponent.vue"
 </script>
 <template>
     <div>
-       <div id="header">
+       <div id="header" class="sticky top-0 z-[10] bg-white pb-1">
         <HeaderComponent/>
        </div>
        <div id="sectionOne">
