@@ -29,7 +29,7 @@ import HeaderComponent from '../components/home/HeaderComponent.vue';
                     </div>
 
                     <div>
-                        <textarea name="" id="" cols="20" rows="5" class="py-4 px-2 rounded-md border border-[#F37021] w-full"></textarea>
+                        <textarea placeholder="Ecrivez-nous un message" class="h-[30vh] p-4 px-2 rounded-md border border-[#F37021] w-full"></textarea>
                     </div>
 
                     <div>
@@ -37,7 +37,7 @@ import HeaderComponent from '../components/home/HeaderComponent.vue';
                     </div>
 
                     <div>
-                        <button class="px-4 py-3 bg-[#F37021] rounded-lg text-white float-right mb-5">Envoyer    ♠♣♦</button>
+                        <button class="flex items-center justify-evenly w-[180px] h-[40px] bg-[#F37021] rounded-md text-white float-right mb-5">Envoyer <span class="w-2"><img src="/src/assets/arrow_right.svg"></span></button>
                     </div>
 
                 </form>

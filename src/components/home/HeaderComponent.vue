@@ -12,27 +12,27 @@
             </div>
                 <div class="h-full py-2">
                     <ul class="float-right flex items-center gap-10">
-                        <router-link :to="{name:'home_view'}" active-class="underline underline-offset-8 decoration-[#F37021]">
+                        <router-link :to="{name:'home_view'}" active-class="underline underline-offset-8 decoration-[#F37021] font-bold">
                             <li class="cursor-pointer hover:animate-bounce hover:tracking-widest hover:underline hover:underline-offset-8 hover:decoration-[#F37021]">Accueil</li>
                         </router-link>
 
-                        <router-link :to="{name:'home_view'}" active-class="underline underline-offset-8 decoration-[#F37021]">
+                        <router-link :to="{name:'about_view'}" active-class="underline underline-offset-8 decoration-[#F37021] font-bold">
                             <li class="cursor-pointer hover:animate-bounce hover:tracking-widest hover:underline hover:underline-offset-8 hover:decoration-[#F37021]">À Propos</li>
                         </router-link>
 
-                        <router-link :to="{name:'home_view'}" active-class="underline underline-offset-8 decoration-[#F37021]">
+                        <router-link :to="{name:'preteur_view'}" active-class="underline underline-offset-8 decoration-[#F37021] font-bold">
                             <li class="cursor-pointer hover:animate-bounce hover:tracking-widest hover:underline hover:underline-offset-8 hover:decoration-[#F37021]">Prêteurs</li>
                         </router-link>
 
-                        <router-link :to="{name:'home_view'}" active-class="underline underline-offset-8 decoration-[#F37021]">
+                        <router-link :to="{name:'emprunteur_view'}" active-class="underline underline-offset-8 decoration-[#F37021] font-bold">
                             <li class="cursor-pointer hover:animate-bounce hover:tracking-widest hover:underline hover:underline-offset-8 hover:decoration-[#F37021]">Emprunteurs</li>
                         </router-link>
 
-                        <router-link :to="{name:'club_view'}" active-class="underline underline-offset-8 decoration-[#F37021]">
+                        <router-link :to="{name:'club_view'}" active-class="underline underline-offset-8 decoration-[#F37021] font-bold">
                             <li class="cursor-pointer hover:animate-bounce hover:tracking-widest hover:underline hover:underline-offset-8 hover:decoration-[#F37021]">Club</li>
                         </router-link>
 
-                        <router-link :to="{name:'contact_view'}" active-class="underline underline-offset-8 decoration-[#F37021]">
+                        <router-link :to="{name:'contact_view'}" active-class="underline underline-offset-8 decoration-[#F37021] font-bold">
                             <li class="cursor-pointer hover:animate-bounce hover:tracking-widest hover:underline hover:underline-offset-8 hover:decoration-[#F37021]">Nous Contacter</li>
                         </router-link>
                         <li class="cursor-pointer ">Français (☻♣)</li>
